@@ -17,3 +17,4 @@ class Apple(GridObject):
             randPos = Position.randomPosition(NUMBER_OF_CELL_WIDTH, NUMBER_OF_CELL_HEIGHT)
             
         return Apple(randPos)
+    
